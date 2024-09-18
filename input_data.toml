@@ -1,0 +1,6 @@
+Variable = "pr"
+Project = "cmip6"
+Product = "scenarioMIP"
+Experiment = "rcp85"
+Institute = "mpi"
+Model = "ec-earth"
