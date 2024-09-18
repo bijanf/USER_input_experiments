@@ -6,7 +6,7 @@ This repository contains experiments related to handling user inputs using the P
 
 - **`user_input.py`**: This Python script defines the `USER_input` class using Pydantic and provides functionality to read data from a TOML file and instantiate the class.
 - **`input_data.toml`**: A TOML file containing sample input values for the `USER_input` class, including fields such as `Variable`, `Project`, `Product`, and more.
-- **`README.md`**: The project documentation (this file).
+- **`README.md`**: The project documentation.
 
 ## Prerequisites
 
